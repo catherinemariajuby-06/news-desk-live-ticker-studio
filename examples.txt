@@ -1,0 +1,25 @@
+NEWS DESK — SAMPLE ANNOUNCEMENTS
+
+English 1
+The city council approved a new public library, with construction expected to begin in January.
+
+English 2
+The health department reported 120 new dengue cases this week, bringing the seasonal total to 840.
+
+English 3
+The railway authority announced two additional services between Kochi and Kozhikode during the festival period.
+
+English 4
+The weather department said heavy rain is expected in several districts on October 28 and 29, and advised residents to follow local alerts.
+
+Malayalam 1
+നഗരസഭ പുതിയ പൊതുഗ്രന്ഥശാലയ്ക്ക് അംഗീകാരം നൽകി. നിർമാണം ജനുവരിയിൽ ആരംഭിക്കുമെന്ന് അറിയിച്ചു.
+
+Malayalam 2
+ഈ ആഴ്ച 120 പുതിയ ഡെങ്കിപ്പനി കേസുകൾ റിപ്പോർട്ട് ചെയ്തതായി ആരോഗ്യവകുപ്പ് അറിയിച്ചു. ഇതോടെ സീസണിലെ ആകെ കേസുകൾ 840 ആയി.
+
+Malayalam 3
+ഉത്സവകാലത്ത് കൊച്ചിക്കും കോഴിക്കോടിനുമിടയിൽ രണ്ട് അധിക ട്രെയിൻ സർവീസുകൾ ആരംഭിക്കുമെന്ന് റെയിൽവേ അറിയിച്ചു.
+
+TESTING NOTE
+These are test inputs, not guaranteed reference outputs. Check each generated ticker against its source, especially dates, numbers, locations, negation, and the main news point before approving.
